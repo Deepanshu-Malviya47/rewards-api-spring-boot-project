@@ -272,7 +272,3 @@ CREATE TABLE transaction (
 mvn test
 ```
 
-Test packages:
-- `com.retail.reward_api.controller.unit` - Unit tests
-- `com.retail.reward_api.controller.integration` - Integration tests
-- `service` - Service layer tests
